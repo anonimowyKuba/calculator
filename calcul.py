@@ -1,6 +1,7 @@
 from tkinter import *
 from math import sqrt
 
+#fatorial function - not use! yet..
 def fact(n):
     if n>1:
         return n*fact(n-1)
